@@ -67,7 +67,7 @@ En **Idioma** esta:
 ![](/imagenes/foto11.png)
 
 En **Instalación** esta:
-> Si hubiésemos querido ocultar la ventana de instalación por cualquier casual, tendríamos que haber desmarcado la casilla que dice "**Mostrar Instalación al usuario**".
+> Si hubiésemos querido ocultar la ventana de instalación por cualquier casual, tendríamos que haber desmarcado la casilla que dice "**Mostrar instalación al usuario**".
 
 ![](/imagenes/foto12.png)
 
@@ -107,11 +107,11 @@ Este es el archivo de configuración **.xml**.
 <Configuration ID="2a864b9c-b5f9-4b93-9f74-8392d12acbc1">
 	<Add OfficeClientEdition="64" Channel="Current">
 		<Product ID="O365ProPlusEEANoTeamsRetail">
-		<Language ID="es-es"/>
-		<ExcludeApp ID="Groove"/>
-		<ExcludeApp ID="Lync"/>
-		<ExcludeApp ID="OneDrive"/>
-		<ExcludeApp ID="Bing"/>
+			<Language ID="es-es"/>
+			<ExcludeApp ID="Groove"/>
+			<ExcludeApp ID="Lync"/>
+			<ExcludeApp ID="OneDrive"/>
+			<ExcludeApp ID="Bing"/>
 		</Product>
 	</Add>
 	<Property Name="SharedComputerLicensing" Value="1"/>
