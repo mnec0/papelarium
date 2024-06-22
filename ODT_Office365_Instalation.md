@@ -9,7 +9,8 @@ Para poder instalar **Microsoft Office 365** con la Herramienta de Implementaci�
 
 El primero es el instalador, un **.exe** el segundo es un **.xml** que guardará la configuración de como queremos instalar nuestro **Office 365** y el tercero son los datos de **Office 365**. Ahora vamos a ver como conseguir estos archivos.
 
-### Primer paso
+### Procedimiento
+
 Tenemos que descargar las **ODT** (Herramienta de Implementación de Office), aquí tenemos el enlace de la página oficial.
 
 - [Office Deployment Tool](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
