@@ -1,15 +1,21 @@
 
-## Office Deployment Tool
+# Office Deployment Tool
 
-Para poder instalar **Microsoft Office 365** con la Herramienta de Implementación de Office (**Office Deployment Tool**) vamos a necesitar 3 archivos:
+## Información general acerca de la Herramienta de implementación de Office
+
+La Herramienta de implementación de Office (**ODT**) es una herramienta de línea de comandos que puede usar para descargar e implementar Aplicaciones Microsoft 365 en los equipos cliente. La ODT le ofrece más control que una instalación de Office: puede definir los productos e idiomas que se instalarán, cómo se actualizarán esos productos y si quiere o no mostrar la experiencia de instalación a los usuarios.
+
+Para poder instalar **Aplicaciones Microsoft 365** con la Herramienta de Implementación de Office (**Office Deployment Tool**) vamos a necesitar 3 archivos:
 
 - [ ] setup.exe
 - [ ] conf.xml
 - [ ] Office
 
-El primero es el instalador, un **.exe** el segundo es un **.xml** que guardará la configuración de como queremos instalar nuestro **Office 365** y el tercero son los datos de **Office 365**. Ahora vamos a ver como conseguir estos archivos.
+El primero es el instalador un **.exe**, el segundo es un **.xml** que guardará la configuración de como queremos instalar nuestro **Office 365** y el tercero son los datos de **Office 365**. Ahora vamos a ver como conseguir estos archivos.
 
-### Procedimiento
+[REFERENCIA DEL PROCEDIMIENTO (LINK OFICIAL)](https://learn.microsoft.com/es-es/deployoffice/overview-office-deployment-tool)
+
+## Procedimiento
 
 Tenemos que descargar las **ODT** (Herramienta de Implementación de Office), aquí tenemos el enlace de la página oficial.
 
